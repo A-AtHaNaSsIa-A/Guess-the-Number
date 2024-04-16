@@ -1,2 +1,2 @@
-# Guess-the-Number
-A short game where you'll have to guess the correct number! -> Levels: Easy, Medium &amp; Hard, -> Short &amp; Fun        Hope you like it and have a nice day : )
+# Guess the Number
+Once you start the game: -> Click on Easy, Medium or Hard, based on the difficulty level you want to play the game in, -> Once you've chose and selected your difficulty level, click on the button Randomize to let the game load a number which depends on the difficulty level you chose, -> Start by writing your guessings in the entry under the short description in the game. Hope you like it! <3
